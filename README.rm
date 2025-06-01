@@ -1,0 +1,38 @@
+# 📚 Book Management App
+
+A simple full-stack CRUD (Create, Read, Update, Delete) web application built with React.js for the frontend and Express.js with MongoDB for the backend.
+
+## 🔧 Features
+
+- Add a new book with title, author, and published year
+- View a list of all books
+- View single book details in a modal
+- Edit existing book details
+- Delete a book
+- Loading spinner during operations
+- Notification system using `notistack`
+- Responsive card layout with icons from `react-icons`
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React.js
+- React Router DOM
+- Axios
+- Tailwind CSS
+- React Icons
+- Notistack (for notifications)
+
+### Backend (Expected)
+- Express.js
+- MongoDB
+- Mongoose
+- Node.js
+ 
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/book-management-app.git
+cd book-management-app
